@@ -94,3 +94,8 @@ To make everyone’s contribution unique, here are sample tasks:
 
 **Remember**: This is not about perfection — it’s about **learning by doing**.  
 Have fun, experiment, and don’t worry if you break things — that’s how we learn in GitHub!
+
+
+**Student Name:** Cameron
+**Career Interest:** Data Analyst or Full-Stack Developer
+**Fact About Me:** I made a Simon Says game with HTML and JavaScript during the summer; I put it up as a repo on my GitHub account.
