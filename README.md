@@ -1,10 +1,15 @@
 # student-github-workshop
 
+
+
+hiiiiiiii
+
+
 Welcome to the **GitHub Hands-On Workshop** 🎉  
 This session is designed to give you both **career insights** and **practical GitHub/IT skills**.  
 By the end of this workshop, you’ll know how to use GitHub as a portfolio, collaborate on projects, and showcase your work professionally.
 
----
+--- 
 
 ## 📌 Session Agenda
 ### Part 1 – Career Journey & Insights
