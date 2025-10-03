@@ -97,6 +97,6 @@ Have fun, experiment, and don’t worry if you break things — that’s how we 
 
 Diego: hello world!
 
-Pouya: Wake up cnad change the world!
+Pouya: Wake up and change the world!
 
-Jordan: 
+Jordan: live laugh love
