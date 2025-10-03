@@ -100,3 +100,8 @@ Diego: hello world!
 Pouya: Wake up and change the world!
 
 Jordan: live laugh love
+
+
+**Student Name:** Cameron  
+**Career Interest:** Data Analyst or Full-Stack Developer  
+**Fact About Me:** I made a Simon Says game with HTML and JavaScript during the summer; I put it up as a repo on my GitHub account.  
