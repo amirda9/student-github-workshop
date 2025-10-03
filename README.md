@@ -94,7 +94,3 @@ To make everyone’s contribution unique, here are sample tasks:
 
 **Remember**: This is not about perfection — it’s about **learning by doing**.  
 Have fun, experiment, and don’t worry if you break things — that’s how we learn in GitHub!
-
-Diego: hello world!
-Pouya: Wake up cnad change the world!
-Jordan: 
